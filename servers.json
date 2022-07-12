@@ -1522,5 +1522,10 @@
         "addresses": [
             "revenge.cc"
         ]
-    }
-]
+    },
+    {
+        "id": "StelarMC",
+        "name": "StelarMC Network",
+        "addresses": [
+            "stelarmc.club"
+        ]
